@@ -1,1 +1,3 @@
-"This is just a test. I'm proud of how consistent I've been" 
+"Hello everyone. My name is Fines Owens and I am a self-taught developer.
+I got into coding to have a cool tech career, but found out that I actually enjoy the nuances of programming.
+Please enjoy my profile and feel free to reach out with any questions!"
